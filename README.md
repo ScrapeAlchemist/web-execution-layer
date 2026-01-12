@@ -79,7 +79,7 @@ cp .env.example .env
 
 1. Sign up at [Bright Data](https://brightdata.com/cp/start)
 2. Go to [Web Unlocker](https://brightdata.com/cp/web_access/unlocker) → Get Web Unlocker credentials
-3. Go to [Scraping Browser](https://brightdata.com/cp/web_access) → Create Scraping Browser zone
+3. Go to [Scraping Browser](https://brightdata.com/cp/web_access/scraping_browser) → Create Scraping Browser zone
 4. Go to [SERP API](https://brightdata.com/cp/web_access/serp) → Get SERP credentials
 5. Go to [Zones](https://brightdata.com/cp/zones) → Create proxy zone (if needed)
 6. Copy your credentials to `.env`
